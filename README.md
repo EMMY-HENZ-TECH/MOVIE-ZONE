@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -55,8 +55,9 @@
     <a href="https://hdhub4u.foo/" class="box">𝐌𝐎𝐕𝐈𝐄 𝐒𝐈𝐓𝐄 1</a>
     <a href="https://vegamovies.dad/" class="box">𝐌𝐎𝐕𝐈𝐄 𝐒𝐈𝐓𝐄 2</a>
     <a href="https://dotmovies.bet/" class="box">𝐌𝐎𝐕𝐈𝐄 𝐒𝐈𝐓𝐄 3</a>
-    <a href="https://api.nexoracle.com/jo_F67" class="box">𝐌𝐎𝐕𝐈𝐄 𝐒𝐈𝐓𝐄 4</a>
-    <a
   </div>
 </body>
 </html>
+
+
+## EMMY HENZ TECH
